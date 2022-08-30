@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignore Asset Store file
+ThirdPersonProject/Assets/AssetStoreAssets/
+ThirdPersonProject/Assets/AssetStoreAssets.meta
+
+# Ignore PackageCache
+Library/PackageCache
